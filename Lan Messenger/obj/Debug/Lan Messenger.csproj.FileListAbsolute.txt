@@ -1,0 +1,8 @@
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\obj\Debug\Lan Messenger.csprojResolveAssemblyReference.cache
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\obj\Debug\Lan_messenger.AboutBox1.resources
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\obj\Debug\Lan_Messenger.Properties.Resources.resources
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\obj\Debug\Lan Messenger.csproj.GenerateResource.Cache
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\bin\Debug\Lan Messenger.exe
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\bin\Debug\Lan Messenger.pdb
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\obj\Debug\Lan Messenger.exe
+c:\users\himeshkumar\documents\visual studio 2012\Projects\Lan Messenger\Lan Messenger\obj\Debug\Lan Messenger.pdb
